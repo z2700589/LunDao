@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="跑跑闪送与用户共同确认："
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. 用户点击跑跑闪送注册页面的同意注册按钮并完成注册程序、获得跑跑闪送账号和密码时，视为用户与跑跑闪送已达成《跑跑闪送用户协议》，就用户进入跑跑闪送消费（即用户通过跑跑闪送与商家进行网上交易）达成本协议的全部约定。\n2. 跑跑闪送及用户均已认真阅读本《跑跑闪送用户协议》(下称“本协议”)中全部条款（特别是以黑体字标示出的关于跑跑闪送及用户重大权益的条款）及跑跑闪送发布的其他全部服务条款和操作规则的内容，对本协议及前述服务条款和规则均以知晓、理解并接受，同意将其作为确定双方权利义务的依据。跑跑闪送《法律声明》为本协议的必要组成部分，用户接受本协议的同时即视为接受跑跑闪送《法律声明》的全部内容。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="一、用户注册"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.注册资格\n&#160;&#160;&#160;&#160;用户承诺：用户具有完全民事权利能力和行为能力或虽不具有完全民事权利能力和行为能力但经其法定代理人同意并由其法定代理人代理注册及应用跑跑闪送服务。\n2.注册目的\n用户承诺：用户进行用户注册并非出于违反法律法规或破坏跑跑闪送网络交易秩序的目的。\n3.注册流程\n(1).用户同意根据跑跑闪送用户注册页面的要求提供有效电子邮箱、所在城市等信息，设置跑跑闪送账号及密码，用户应确保所提供全部信息的真实性、完整性和准确性。\n(2).用户在注册时有权选择是否订阅跑跑闪送发送的关于平台信息的电子邮件和或短信息。\n(3).用户合法、完整并有效提供注册所需信息的，有权获得跑跑闪送账号和密码，跑跑闪送账号和密码用于用户在跑跑闪送进行会员登录。\n(4).用户获得跑跑闪送账号及密码时视为用户注册成功，用户同意接收跑跑闪送发送的与跑跑闪送网站管理、运营相关的电子邮件和或短消息。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="二、用户服务"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="&#160;&#160;&#160;&#160;跑跑闪送为用户通过跑跑闪送进行网络平台交易活动提供网络交易平台服务，跑跑闪送将根据结合各业务部门的不同特点，可能向用户收取一定的服务费用。\n1.服务内容\n(1).用户有权在跑跑闪送浏览平台商品/服务的信息、有权通过跑跑闪送与商家达成订单、支付平台价款、获得电子消费凭证（如有）等。\n(2).用户有权在跑跑闪送查看其跑跑闪送会员账号下的信息，有权应用跑跑闪送提供的功能进行操作。\n(3).用户有权按照跑跑闪送发布的活动规则参与跑跑闪送组织的网站活动。\n(4).跑跑闪送承诺为用户提供的其他服务。\n2.服务规则\n用户承诺遵守下列跑跑闪送服务规则：\n(1).用户应当遵守法律法规、规章、规范性文件及政策要求的规定，不得在跑跑闪送或利用跑跑闪送服务从事非法或其他损害跑跑闪送或第三方权益的活动，如发送或接收任何违法、违规、违反公序良俗、侵犯他人权益的信息，发送或接收传销材料或存在其他危害的信息或言论，未经跑跑闪送授权使用或伪造跑跑闪送电子邮件题头信息等。\n(2).用户应当遵守法律法规应当谨慎合理使用和妥善保管跑跑闪送账号及密码，对其跑跑闪送账号和密码下进行的行为和发生的事件负责。当用户发现跑跑闪送账号被未经其授权的第三方使用或存在其他账号安全问题时应立即有效通知跑跑闪送，要求跑跑闪送暂停该跑跑闪送账号的服务，并向公安机关报案。跑跑闪送有权在合理时间内对用户的该等请求采取行动，但对采取行动前用户已经遭受的损失不承担任何责任。用户在未经跑跑闪送同意的情况下不得将跑跑闪送账号以赠与、借用、租用、转让或其他方式处分给他人。\n(3).用户通过跑跑闪送与商家进行平台交易时，应当遵守本协议“网上交易规则”的全部约定及跑跑闪送发布的其他关于网上交易的服务条款和操作规则的全部规定。\n(4).用户在跑跑闪送对网上商品/服务进行评价时应当根据实际情况如实进行评价。\n(5).用户应当按照跑跑闪送发布的规则参加跑跑闪送抽奖等活动，遵守活动秩序。\n(6).跑跑闪送发布的其他服务条款和操作规则。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="三、网上交易规则"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="用户承诺在其进入跑跑闪送消费，通过跑跑闪送与商家进行网上交易的过程中良好遵守如下跑跑闪送网上交易规则。\n1.浏览网上信息"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="用户在跑跑闪送浏览网上商品/服务的平台信息时，应当仔细阅读平台信息中包含的全部内容，包括但不限于平台商品/服务的名称、种类、数量、质量、价格、有效期、预约时间、商家地址、营业时间、配送方式、退换货方式、退款条件、售后服务等内容，其中用户应特别注意平台商品/服务的有效期、预约时间及退款条件等内容，用户完全接受平台信息中包含的全部内容后方可点击购买。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2.提交及确认平台订单\n(1).用户应当仔细阅读平台订单页面中所包含的全部内容，包括但不限于平台信息中的全部内容、为再次提示用户注意而标明的本单平台商品/服务的有效期、退款条件等内容（如有），选择及确认购买数量、价格、应付总额、用户接收平台电子消费凭证的联系方式或接收货物的收货地址和送货时间等内容。\n前述平台订单页面中所包含的全部内容，构成了用户与商家之间达成的平台合同的合同内容，用户完全同意平台订单的全部内容后方可提交订单。\n(2).用户再次阅读并确认平台订单的全部内容后方可点击确认订单并付款，用户确认订单即视为用户已知晓、同意并接受平台订单中的全部内容，与商家成立了平台合同。平台订单中所包含的全部内容即为平台合同的内容，具体包括但不限于平台商品/服务的名称、种类、数量、质量、价格、有效期、预约时间、商家地址、营业时间、配送方式、退换货方式、退款条件、售后服务等，用户与商家均应当按照前述平台合同的约定履行各自的权利义务。\n3.支付平台价款\n在平台合同成立之后用户应根据付款页面的提示通过网上支付平台完成平台价款的支付。因跑跑闪送接受商家委托代商家向用户收取平台价款，故用户将平台价款支付给跑跑闪送且支付成功即视为用户已向商家履行了平台合同项下的平台价款支付义务。用户在支付平台价款之前不得要求商家向用户提供平台商品/服务。\n4.平台电子消费凭证\n(1).用户支付平台价款成功后，跑跑闪送向用户发送平台电子消费凭证，用户可按照平台合同的约定凭平台电子消费凭证向商家主张获得平台商品/服务。\n(2).用户应当妥善保管平台电子消费凭证，因用户保管不善导致平台电子消费凭证被他人使用的，用户要求跑跑闪送重新发送平台电子消费凭证的, 美团有权拒绝提供。\n(3).对于需要通过平台电子消费凭证验证进行消费的平台商品/服务，用户进行消费时，应向商家出示平台电子消费凭证，商家对平台电子消费凭证验证成功后按照平台合同内容的约定向用户提供平台商品/服务。\n(4).平台电子消费凭证于发生以下情形之一时即失效：\na.凭平台电子消费凭证已获得平台商品/服务；\nb.平台合同内容中约定的有效期届满。\n5.退款规则\n用户支付平台价款成功后，需要进行退款的，按照如下规则进行：\n(1).发生以下情形之一的，用户有权要求跑跑闪送代商家进行退款：\na.因未达到最低平台人数，造成当次平台活动被取消的；\nb.用户付款成功后，因不可抗力或商家原因，导致商家无法向用户提供平台商品/服务，经跑跑闪送核实后属实的；\nc.用户付款成功后，因确属情况变化导致商家需要变更平台合同内容，用户不接受变更后内容的。\n(2).如用户已实际消费平台商品/服务，又要求商家退款或要求跑跑闪送代商家进行退款的，商家及/或跑跑闪送有权拒绝提供。但平台商品/服务与平台合同约定内容严重不符、存在其他严重质量问题或违反《中华人民共和国食品安全法》、《中华人民共和国食品安全法实施条例》、《餐饮服务食品安全监督管理办法》、《中华人民共和国消费者权益保护法》等法律规定的情况除外。\n(3).平台合同约定的有效期届满但用户未在有效期内进行消费的，是否及如何退款应根据平台合同的约定确定。根据平台合同的约定用户有权要求退款的，用户应按照平台合同的约定要求跑跑闪送代商家进行退款，在此种情况下如用户但未向跑跑闪送要求退款的，即视为用户放弃了主张退款的权利，跑跑闪送有权保留及处理此等款项。\n(4).用户成功进行平台交易后，未凭平台电子消费凭证进行实际消费且符合跑跑闪送关于“未消费随时退款”约定的，用户可以向跑跑闪送申请退款。经跑跑闪送审核，用户的退款申请符合“未消费随时退款”约定的，跑跑闪送将于2个工作日内退款至用户的跑跑闪送账户内；\n如用户申请将款项退回至用户的支付账户的，即用户申请提现的，则跑跑闪送将于3-10个工作日内将款项按照用户的支付路径原路退回至用户的支付账户；如用户在30日内申请提现的总金额大于或等于人民币5000元，则属于大额提现，跑跑闪送针对大额提现将于60日内将款项按照用户的支付路径原路退回至用户的支付账户。 但如下商品或服务除外：\na.已消费且无充分证据证明商户提供的商品或服务存在瑕疵或与页面平台信息承诺不符的其他情形的美团券；\nb.实物类产品在用户按照跑跑闪送规则提交退货申请，并退回货物前（需物流运送的产品）；\nc.因非正常使用及保管而损坏的平台商品；\nd.在跑跑闪送中明确标明“不支持未消费随时退款”的产品或服务；\n(5).其他情形下的退款按照平台合同内容约定的退款条件及退款方式进行。\n(6).在退款进行过程中，用户应当遵守跑跑闪送关于退款的服务条款和操作规则的规定。\n6.平台争议解决规则"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="如用户与商家因平台合同的履行发生任何争议，包括但不限于对平台商品/服务的数量、质量、价格、有效期、预约时间、商家地址、配送方式、退换货方式、退款条件、售后服务等问题发生争议的，用户应与商家根据平台合同内容的约定确定用户与商家各自的权利义务，承担各自的责任，解决争议。跑跑闪送可协助用户与商家之间争议的协商调解。
+四、用户的权利和义务"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.用户有权按照本协议约定接受跑跑闪送提供的跑跑闪送网络交易平台服务。
+2.用户有权在注册时选择是否订阅跑跑闪送发送的关于平台信息的电子邮件或短消息，并在注册成功后有权随时订阅或退订跑跑闪送该等信息。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3.如用户要求获得平台商品/服务的发票、其他付款凭证、购货凭证或服务单据，有权且应当在对平台商品/服务进行消费时向商家提出，发票金额以实际支付的平台价款为准。\n4.用户在消费平台商品/服务的过程中，如发现平台商品/服务与订单内容不符或存在质量、服务态度等其他问题的，应与商家采取协商或其他方式予以解决，跑跑闪送可向用户提供商家的真实网站登记信息并积极协助用户与商家解决争议。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5.用户有权随时终止使用跑跑闪送服务。\n6.用户应保证其在注册时和提交订单时所提供的姓名、联系方式、联系地址等全部信息真实、完整、准确，并当上述信息发生变更时及时进行更新提供给跑跑闪送的信息。\n7.用户在跑跑闪送进行平台交易时不得恶意干扰平台的正常进行、破坏跑跑闪送平台秩序。\n8.用户不得以任何技术手段或其他方式干扰跑跑闪送的正常运行或干扰其他用户对跑跑闪送服务的使用。\n9.用户不得以虚构事实等方式恶意诋毁跑跑闪送或商家的商誉。\n10.用户通过跑跑闪送进行平台交易应出于真实消费目的，不得以转售等商业目的进行平台交易。\n11.用户在付款成功后应配合接收货物或平台电子消费凭证。\n12.用户不得对平台商品/服务进行虚假评价或虚假投诉。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="五、跑跑闪送的权利和义务"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.如用户不具备本协议约定的注册资格，则跑跑闪送有权拒绝用户进行注册，对已注册的用户有权注销其跑跑闪送会员账号，跑跑闪送因此而遭受损失的有权向前述用户或其法定代理人主张赔偿。同时，跑跑闪送保留其他任何情况下决定是否接受用户注册的权利。\n2.跑跑闪送发现账户使用者并非账户初始注册人时，有权中止该账户的使用。\n3.跑跑闪送通过技术检测、人工抽检等检测方式合理怀疑用户提供的信息错误、不实、失效或不完整时，有权通知用户更正、更新信息或中止、终止为其提供跑跑闪送服务。\n4.跑跑闪送有权在发现跑跑闪送上显示的任何信息存在明显错误时，对信息予以更正。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5.用户付款成功前，跑跑闪送有权接受商家委托对订单内容作出变更，如用户接受变更后的内容则用户可确认订单及付款，如用户不接受变更后内容则有权取消订单。用户付款成功后，如确因情况变化导致商家需对订单内容作出变更的，跑跑闪送有权接受商家委托单方对订单内容作出变更，如用户接受变更则按变更后的订单内容进行消费，如用户不接受变更则用户有权取消订单并要求跑跑闪送代商家全额退款。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="6.跑跑闪送保留修改、中止或终止跑跑闪送服务的权利，跑跑闪送行使前述权利将按照法律规定的程序及方式告知用户。\n7.跑跑闪送应当采取必要的技术手段和管理措施保障跑跑闪送的正常运行，并提供必要、可靠的交易环境和交易服务，维护平台交易秩序。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="8.如用户连续一年未使用跑跑闪送会员账号和密码登录跑跑闪送，则跑跑闪送有权注销用户的跑跑闪送账号。账号注销后，跑跑闪送有权将相应的会员名开放给其他用户注册使用。\n9.当一次平台活动中平台人数未达到最低平台人数要求时，跑跑闪送有权取消本次平台活动，并根据本协议约定向已支付相应平台价款的用户进行退款。\n10.跑跑闪送有权在本协议履行期间及本协议终止后保留用户的注册信息及用户应用跑跑闪送服务期间的全部交易信息，但不得非法使用该等信息。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="11.跑跑闪送有权随时删除跑跑闪送网站内各类不符合国家法律法规、规范性文件或跑跑闪送网站规定的用户评价等内容信息，跑跑闪送行使该等权利不需提前通知用户。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="六、用户信息"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.在遵守法律的前提下，为向用户提供优质、便捷的服务，当用户注册跑跑闪送账户时，或访问跑跑闪送站及其相关网站、跑跑闪送移动设备客户端时，或使用跑跑闪送提供的服务时，跑跑闪送可能会记录用户操作的相关信息或采集用户的以下信息："
+        android:textColor="#1a1a1a"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(1).在用注册跑跑闪送账户及使用跑跑闪送提供的各项服务时，为识别用户的身份，可能要向跑跑闪送提供一些个人信息（包括但不限于姓名、身份证明、地址、电话号码、电子邮件地址等信息及相关附加信息（如您所在的省份和城市、邮政编码等））。\n(2).如用户使用的跑跑闪送服务需与用户的银行账户或其他支付工具的账户关联方能实现时，用户需要向跑跑闪送提供用户的银行账户信息或其他支付工具的账户信息。\n(3).为便于用户查询自己的交易状态或历史记录，跑跑闪送会保存用户使用跑跑闪送服务产生的交易信息。\n(4).为更好地识别用户的身份以充分保护用户的账户安全，当用户访问跑跑闪送站及其相关网站、跑跑闪送移动设备客户端时，或使用跑跑闪送提供的服务时，跑跑闪送可能会记录用户操作的相关信息，包括但不限于用户的计算机IP地址、设备标识符、硬件型号、操作系统版本、用户的位置以及与跑跑闪送服务相关的日志信息。\n(5).除上述信息外，跑跑闪送还可能为了提供服务及改进服务质量的合理需要而收集用户的其他信息，包括用户与跑跑闪送的客户服务团队联系时用户提供的相关信息，用户参与问卷调查时向跑跑闪送发送的问卷答复信息，以及用户与跑跑闪送及跑跑闪送关联公司互动时跑跑闪送收集的相关信息。与此同时，为提高用户使用跑跑闪送提供的服务的安全性，更准确地预防钓鱼网站欺诈和木马病毒，跑跑闪送可能会通过了解一些用户的网络使用习惯、用户常用的软件信息等手段来判断用户账户的风险，并可能会记录一些跑跑闪送认为有风险的URL。\n2.为保障用户的信息安全，跑跑闪送一直并将继续努力采取各种合理的物理、电子和管理方面的安全措施来保护用户信息，使用户的信息不会被泄漏、毁损或者丢失，包括但不限于信息加密存储、数据中心的访问控制。跑跑闪送对可能接触到用户的信息的员工或外包人员也采取了严格管理，包括但不限于根据岗位的不同设置不同的权限，与员工签署保密协议等措施。\n3.在遵守法律的前提下，为向用户提供服务及提升服务质量，跑跑闪送会把用户的信息用于下列用途：\n(1).向用户提供跑跑闪送的各项服务及客户服务，并维护、改进这些服务。\n(2).比较信息的准确性，并与第三方进行验证。例如，将用户向跑跑闪送提交的身份信息与身份验证的服务机构进行验证。\n(3).为使用户知晓自己使用跑跑闪送服务的情况或了解跑跑闪送的服务，向用户发送服务状态的通知、营销活动及其他商业性电子信息。\n(4).对跑跑闪送用户的身份数据、交易信息等进行综合统计、分析或加工，并出于平台、奖励或为了让用户拥有更广泛的社交圈的需要而使用、共享或披露；例如跑跑闪送可能会统计某个时间段注册跑跑闪送账户的新用户，对这些新用户提供专享的优惠活动。\n(5).预防或禁止非法的活动。\n(6).经用户许可的其他用途。\n4.Cookie的使用\n(1).为使用户获得更轻松的访问体验，用户访问跑跑闪送网站或使用跑跑闪送提供的服务时，跑跑闪送可能会通过小型数据文件识别用户的身份，帮用户省去重复输入注册信息的步骤，或者帮助判断用户的账户安全。这些数据文件可能是Cookie，Flash Cookie，或用户的浏览器或关联应用程序提供的其他本地存储（统称“Cookie”）。\n(2).请用户理解，跑跑闪送的某些服务只能通过使用“Cookie”才可得到实现。如果用户的浏览器或浏览器附加服务允许，用户可以修改对Cookie的接受程度或者拒绝跑跑闪送的Cookie，但这一举动在某些情况下可能会影响用户安全访问跑跑闪送网站和使用跑跑闪送提供的服务"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="七、特别声明"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.用户未通过跑跑闪送与商家之间进行的交易不属于跑跑闪送平台交易，跑跑闪送对不属于跑跑闪送平台交易的交易事项不承担任何责任，用户不得因其与商家之间因此类交易发生的任何争议投诉跑跑闪送或要求美团承担任何责任。不属于跑跑闪送平台交易的情况具体包括：用户未在跑跑闪送与商家成立订单；用户虽在跑跑闪送与商家成立订单，但未通过跑跑闪送而直接向商家支付价款。\n2.不论在何种情况下，跑跑闪送对由于信息网络设备维护、信息网络连接故障、电脑、通讯或其他系统的故障、电力故障、罢工、劳动争议、暴乱、起义、骚乱、生产力或生产资料不足、火灾、洪水、风暴、爆炸、战争、政府行为、司法行政机关的命令、其他不可抗力或第三方的不作为而造成的不能服务或延迟服务不承担责任。\n3.作弊、扰乱交易秩序的情况\n(1).除活动规则另有规定外，每次活动中，每个用户只限参加一次活动（活动包括并不限于促销优惠、秒杀、抽奖等等），每个用户只能中奖一次。同一手机、同一联系方式、同一IP地址、同一跑跑闪送账户、同一身份证件、同一银行卡号、同一收货地址、同一终端设备号或其他可以合理显示为同一用户的情形，均视为同一用户。\n(2).活动期间，如发现有用户通过不正当手段（包括但不限于侵犯第三人合法权益、作弊、扰乱系统、实施网络攻击、恶意套现、刷信誉、批量注册、用机器注册跑跑闪送账户、用机器模拟客户端）参加活动而有碍其他用户公平参加本次活动或有违反活动目的之行为，活动举办方有权取消其获奖资格或其因参加活动所获赠品或权益。如该作弊行为给活动举办方造成损失的，活动举办方保留追究赔偿的权利。\n(3).对于恶意进行注册，反复交易退款，侵害美团实际经营交易的情况，美团会停止服务、封停账号并追究责任。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="八、知识产权"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.跑跑闪送所包含的全部智力成果包括但不限于数据库、网站设计、文字和图表、软件、照片、录像、音乐、声音及其前述组合，软件编译、相关源代码和软件 (包括小应用程序和脚本) 的知识产权权利均归跑跑闪送所有。用户不得为商业目的复制、更改、拷贝、发送或使用前述任何材料或内容。\n2.跑跑闪送名称中包含的所有权利 (包括商誉和商标) 均归跑跑闪送所有。\n3.用户接受本协议即视为用户主动将其在跑跑闪送发表的任何形式的信息的著作权，包括但不限于：复制权、发行权、出租权、展览权、表演权、放映权、广播权、信息网络传播权、摄制权、改编权、翻译权、汇编权以及应当由著作权人享有的其他可转让权利无偿独家转让给跑跑闪送所有，跑跑闪送有权利就任何主体侵权单独提起诉讼并获得全部赔偿。本协议属于《中华人民共和国著作权法》第二十五条规定的书面协议，其效力及于用户在跑跑闪送发布的任何受著作权法保护的作品内容，无论该内容形成于本协议签订前还是本协议签订后。\n4.用户在使用跑跑闪送服务过程中不得非法使用或处分跑跑闪送或他人的知识产权权利。用户不得将已发表于跑跑闪送的信息以任何形式发布或授权其它网站（及媒体）使用。"
+        android:textColor="#1a1a1a"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="八、知识产权"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="九、客户服务"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="十、协议的变更和终止"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="十一、违约责任"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="十一、违约责任"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="十二、争议解决\n用户与跑跑闪送因本协议的履行发生争议的应通过友好协商解决，协商解决不成的，任一方有权将争议提交北京仲裁委员会依据该会仲裁规则进行仲裁。"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="十三、协议生效"
+        android:textColor="#1a1a1a"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

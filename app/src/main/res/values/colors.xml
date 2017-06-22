@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E8380C</color>
+    <color name="colorPrimaryDark">#CE2F07</color>
+    <color name="colorAccent">#E8380C</color>
+    <color name="colorCustomState">#fdcf2f</color>
+    <color name="colorCustomWhiteBackground">#ffffff</color>
+    <color name="colorCustomTab">#fdfdfd</color>
+    <color name="colorMainText">#1A1A1A</color>
+    <color name="colorTabLayout">#9b9b9b</color>
+</resources>

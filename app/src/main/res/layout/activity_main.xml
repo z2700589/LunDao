@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context=".UI.Activity.Main.MainActivity">
+
+    <com.paopaoshangwu.paopao.Views.CanBanScrollViewPager
+        android:id="@+id/vp_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorCustomWhiteBackground" />
+
+    <View style="@style/line_style" />
+
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorCustomTab"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/rb_Theme"
+            android:checked="true"
+            android:drawableTop="@drawable/rb_home_checked"
+            android:text="@string/main_cb_takeout" />
+
+        <RadioButton
+            android:id="@+id/rb_errand"
+            style="@style/rb_Theme"
+            android:drawableTop="@drawable/rb_order_checkde"
+            android:text="@string/main_cb_errand" />
+
+        <RadioButton
+            android:id="@+id/rb_mine"
+            style="@style/rb_Theme"
+            android:drawableTop="@drawable/rb_mine_checked"
+            android:text="@string/main_cb_mine" />
+    </RadioGroup>
+</LinearLayout>

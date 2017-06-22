@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">轮到专送</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_cb_takeout">外卖</string>
+    <string name="main_cb_errand">跑腿</string>
+    <string name="main_cb_mine">我的</string>
+    <string name="userName_mine_fragment">会员请登录</string>
+    <string name="order_mine_fragment">我的订单</string>
+    <string name="balance_mine_fragment">余额</string>
+    <string name="voucher_mine_fragment">优惠券</string>
+    <string name="payment_mine_fragment">待付款</string>
+    <string name="comment_mine_fragment">待评价</string>
+    <string name="address_mine_fragment">我的地址</string>
+    <string name="my_comment_mine_fragment">我的收藏</string>
+    <string name="share_mine_fragment">分享有礼</string>
+    <string name="message_mine_fragment">我的消息</string>
+    <string name="settled_mine_fragment">商家入驻</string>
+    <string name="feedback_mine_fragment">意见反馈</string>
+    <string name="setting_mine_fragment">设置</string>
+    <string name="splash_welcome_activity">闪屏页</string>
+    <string name="btn_guide_activity">立即体验</string>
+    <string name="toolbar_login_activity">跑跑闪送登录</string>
+    <string name="phone_activity">请输入手机号</string>
+    <string name="password_activity">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="register_account">注册账号</string>
+    <string name="forget_password">忘记密码?</string>
+    <string name="watchar_login">微信登录</string>
+    <string name="qq_login">QQ登录</string>
+    <string name="alipay_login">支付宝登录</string>
+    <string name="weibo_login">微博登录</string>
+    <string name="third_party_login">第三方登录</string>
+    <string name="proving_phoneNumber_activity">验证手机号</string>
+    <string name="code_activity">请输入短信验证码</string>
+    <string name="getCode_activity">获取验证码</string>
+    <string name="confirm_registration">确认注册</string>
+    <string name="put_password_activity">设置密码</string>
+    <string name="new_password_activity">请确认密码</string>
+    <string name="submit_code_activity">提交验证码</string>
+    <string name="toolbar_balance_activity">余额</string>
+    <string name="cash_balance_activity">提现</string>
+    <string name="toolbar_voucher_activity">优惠券</string>
+    <string name="toolbar_collect_activity">我的收藏</string>
+
+</resources>
